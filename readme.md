@@ -1,4 +1,4 @@
-# loopback-component-storage-mongo-gridfs
+# loopback-component-storage-mongo-gridfs-modified
 
 Uses mongoDB [GridFS](https://docs.mongodb.org/manual/core/gridfs/) to manage binary contents of your loopback application.
 
@@ -20,7 +20,7 @@ Uses mongoDB [GridFS](https://docs.mongodb.org/manual/core/gridfs/) to manage bi
 ## Installation
 
 ```bash
-npm install --save loopback-component-storage-mongo-gridfs
+npm install --save loopback-component-storage-mongo-gridfs-modified
 ```
 
 ## Datasource
